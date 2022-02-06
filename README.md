@@ -1,4 +1,4 @@
-# **Recipe Book and adding items to shopping list**
+# **Recipe book and adding recipe items to the shopping list**
 
 ## Use the link below to access the app:
 https://ng-course-recipe-book-a0beb.web.app/
